@@ -14,7 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gabrielsousa.gabrielsilvasousacicd"
+      "bundleIdentifier": "com.gabrielsousa.gabrielsilvasousacicd",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
